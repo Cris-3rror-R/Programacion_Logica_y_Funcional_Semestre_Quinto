@@ -1,1 +1,1 @@
-(format t "¡Hola mundo desde Lisp!~%")
+(format t "¡Hola, mundo desde Lisp!~%")
